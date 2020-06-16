@@ -4,7 +4,28 @@
 
     <url>
         <loc>https://kmaa.top/tags/%25E5%25BD%25B1%25E8%25A7%2586/</loc>
-        <lastmod>2020-06-16T02:50:11.275Z</lastmod>
+        <lastmod>2020-06-16T05:15:26.512Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kmaa.top/tags/Nginx/</loc>
+        <lastmod>2020-06-16T05:06:28.351Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kmaa.top/tags/isso/</loc>
+        <lastmod>2020-06-16T04:42:25.673Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kmaa.top/tags/Trojan/</loc>
+        <lastmod>2020-06-16T04:09:28.082Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -59,13 +80,6 @@
     </url>
 
     <url>
-        <loc>https://kmaa.top/tags/Nginx/</loc>
-        <lastmod>2020-06-04T05:58:55.479Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://kmaa.top/tags/shadowsocks-libev/</loc>
         <lastmod>2020-06-04T02:31:28.307Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -103,13 +117,6 @@
     <url>
         <loc>https://kmaa.top/tags/TunSafe/</loc>
         <lastmod>2020-05-28T10:21:44.497Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kmaa.top/tags/Trojan/</loc>
-        <lastmod>2020-05-28T10:21:28.021Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -194,13 +201,6 @@
     <url>
         <loc>https://kmaa.top/tags/Unturned/</loc>
         <lastmod>2020-04-03T02:10:17.515Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kmaa.top/tags/isso/</loc>
-        <lastmod>2020-03-26T05:40:53.592Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
