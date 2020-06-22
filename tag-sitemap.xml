@@ -3,6 +3,20 @@
 
 
     <url>
+        <loc>https://kmaa.top/tags/shadowsocks/</loc>
+        <lastmod>2020-06-22T05:12:57.497Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kmaa.top/tags/udp2raw/</loc>
+        <lastmod>2020-06-22T05:12:57.497Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://kmaa.top/tags/Bookmarks/</loc>
         <lastmod>2020-06-21T12:35:34.921Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -87,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://kmaa.top/tags/udp2raw/</loc>
-        <lastmod>2020-06-17T04:12:59.081Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://kmaa.top/tags/tinyfecVPN/</loc>
         <lastmod>2020-06-17T04:12:59.081Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -145,13 +152,6 @@
     <url>
         <loc>https://kmaa.top/tags/apkpure/</loc>
         <lastmod>2020-05-29T00:14:21.412Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kmaa.top/tags/udpspeeder/</loc>
-        <lastmod>2020-05-28T10:33:38.859Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
