@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://kmaa.top/tags/Bookmarks/</loc>
+        <lastmod>2020-06-24T03:22:43.933Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://kmaa.top/tags/shadowsocks/</loc>
         <lastmod>2020-06-23T03:41:43.003Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -12,13 +19,6 @@
     <url>
         <loc>https://kmaa.top/tags/udp2raw/</loc>
         <lastmod>2020-06-23T03:41:43.003Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kmaa.top/tags/Bookmarks/</loc>
-        <lastmod>2020-06-21T12:35:34.921Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
