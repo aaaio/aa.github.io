@@ -3,15 +3,64 @@
 
 
     <url>
-        <loc>https://kmaa.top/tags/Aria2/</loc>
-        <lastmod>2020-07-09T02:54:09.033Z</lastmod>
+        <loc>https://kmaa.top/tags/go-shadowsock2/</loc>
+        <lastmod>2020-07-09T23:51:06.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kmaa.top/tags/shadowsocks-libev/</loc>
+        <lastmod>2020-07-09T23:51:06.528Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kmaa.top/tags/Samba4/</loc>
+        <lastmod>2020-07-09T23:50:35.140Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kmaa.top/tags/OpenWrt/</loc>
+        <lastmod>2020-07-09T23:50:35.140Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kmaa.top/tags/Rime/</loc>
+        <lastmod>2020-07-09T23:48:43.626Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://kmaa.top/tags/EOS/</loc>
-        <lastmod>2020-07-07T03:56:37.761Z</lastmod>
+        <lastmod>2020-07-09T23:48:43.626Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kmaa.top/tags/Linux/</loc>
+        <lastmod>2020-07-09T23:48:43.626Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kmaa.top/tags/Socks5/</loc>
+        <lastmod>2020-07-09T23:45:52.190Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://kmaa.top/tags/Aria2/</loc>
+        <lastmod>2020-07-09T02:54:09.033Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -38,36 +87,8 @@
     </url>
 
     <url>
-        <loc>https://kmaa.top/tags/shadowsocks-libev/</loc>
-        <lastmod>2020-06-21T08:35:49.250Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kmaa.top/tags/go-shadowsock2/</loc>
-        <lastmod>2020-06-21T08:28:47.934Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://kmaa.top/tags/WireGuard/</loc>
         <lastmod>2020-06-17T04:20:56.945Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kmaa.top/tags/Samba4/</loc>
-        <lastmod>2020-06-17T04:20:27.418Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kmaa.top/tags/OpenWrt/</loc>
-        <lastmod>2020-06-17T04:20:27.418Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -82,13 +103,6 @@
     <url>
         <loc>https://kmaa.top/tags/Unturned/</loc>
         <lastmod>2020-06-17T04:19:20.766Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kmaa.top/tags/Socks5/</loc>
-        <lastmod>2020-06-17T04:14:03.404Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -173,13 +187,6 @@
     <url>
         <loc>https://kmaa.top/tags/V2ray/</loc>
         <lastmod>2020-05-28T10:17:42.544Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kmaa.top/tags/Linux/</loc>
-        <lastmod>2020-05-27T00:58:03.299Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -278,13 +285,6 @@
     <url>
         <loc>https://kmaa.top/tags/Graphic-Card/</loc>
         <lastmod>2019-11-10T02:48:07.746Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kmaa.top/tags/Rime/</loc>
-        <lastmod>2019-10-09T09:45:35.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
