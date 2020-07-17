@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://kmaa.top/tags/Bookmarks/</loc>
+        <lastmod>2020-07-17T06:45:49.053Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://kmaa.top/tags/Aria2/</loc>
         <lastmod>2020-07-10T00:00:03.003Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -61,13 +68,6 @@
     <url>
         <loc>https://kmaa.top/tags/Socks5/</loc>
         <lastmod>2020-07-09T23:45:52.190Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://kmaa.top/tags/Bookmarks/</loc>
-        <lastmod>2020-07-02T22:35:36.742Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
